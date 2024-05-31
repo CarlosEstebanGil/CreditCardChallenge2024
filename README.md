@@ -1,5 +1,5 @@
 PreRequisitos para ejecutar la Aplicación; 
 
-Mysql 8+ instalado ( con user:root pass:roor y schema creado creditcardchallenge ) + Java 17+ Maven. 
+Mysql 8+ instalado ( con user:root pass:root y schema creado creditcardchallenge ) + Java 17+ Maven. 
 
 TODO : docker. nube.
