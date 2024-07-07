@@ -4,4 +4,4 @@ Mysql 8+ instalado ( con user:root pass:root y schema creado creditcardchallenge
 
 TODO : docker. nube.
 
-![Texto Alternativo](fase analisis - uml prototipo- app challenge 2024 - by CharlySan.-.png)
+![Texto Alternativo](fase analisis uml prototipo.png)
